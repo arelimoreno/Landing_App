@@ -46999,3 +46999,5 @@ Started GET "/assets/filosofia-a6350859f8c3529d2ca7833ecad1780057a52498698284a1c
 
 
 Started GET "/assets/vision-513d353d76f879967b851a671d36c898138cca0bb5c4879e9f02d5beb72b3cab.png" for ::1 at 2016-05-04 00:14:27 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.0ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
