@@ -68,7 +68,7 @@ GEM
       thor (>= 0.14, < 2.0)
     json (1.8.3)
     loofah (2.0.3)
-      nokogiri (>= 1.5.9)
+      nokogiri ~> 1.8.1
     mail (2.6.4)
       mime-types (>= 1.16, < 4)
     mime-types (3.0)
@@ -77,9 +77,9 @@ GEM
     mini_portile2 (2.0.0)
     minitest (5.8.4)
     multi_json (1.11.2)
-    nokogiri (1.6.7.2)
+   nokogiri ~> 1.8.1
       mini_portile2 (~> 2.0.0.rc2)
-    nokogiri (1.6.7.2-x86-mingw32)
+    nokogiri (1.8.1-x86-mingw32)
       mini_portile2 (~> 2.0.0.rc2)
     pg (0.18.4)
     pg (0.18.4-x86-mingw32)
@@ -101,7 +101,7 @@ GEM
       activesupport (>= 4.2.0.alpha)
     rails-dom-testing (1.0.7)
       activesupport (>= 4.2.0.beta, < 5.0)
-      nokogiri (~> 1.6.0)
+      nokogiri ~> 1.8.1
       rails-deprecated_sanitizer (>= 1.0.1)
     rails-html-sanitizer (1.0.3)
       loofah (~> 2.0)
